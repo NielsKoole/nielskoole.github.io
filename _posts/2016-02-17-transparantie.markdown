@@ -14,12 +14,12 @@ Inmiddels zijn we nu drie maanden onderweg, en vooruitgang is geboekt. Ik zal de
 
 Om hier een beter beeld bij te geven, wil ik binnenkort ook een video plaatsen om te laten zien hoe dit in zijn werk gaat. Misschien wel leuk om een klein stukje geschiedenis van Made2pay te laten zien, hieronder een video van Made2pay twee jaar geleden:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UH6ismztsck" frameborder="0" allowfullscreen></iframe>
-<br /><br />
+
+
 We zullen de aankomende tijd steeds meer nieuwe dingen toevoegen. Waaronder een hoop aangevraagde functionaliteiten. Al kunnen wij niet garanderen dat we alle aanvragen kunnen verwerken, wij zorgen ervoor dat u nooit meer met een ander kassasysteem wilt werken!
 
 Heeft u vragen, op- of aanmerkingen? U kunt altijd bij ons terecht via info@made2pay.com, [twitter](https://twitter.com/made2pay "@made2pay") of [facebook](https://www.facebook.com/made2pay "Made2pay").
 
 Ik hou u op de hoogte!
 
-Niels Koole
-Made2pay
+Niels Koole, eigenaar en ontwikkelaar van Made2pay
