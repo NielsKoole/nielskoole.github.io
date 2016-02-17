@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transparantie"
+title:  "Week 1: Transparantie"
 date:   2016-02-17 16:00:00 +0100
 categories: algemeen
 ---
