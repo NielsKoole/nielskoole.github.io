@@ -16,7 +16,7 @@ name: 'Niels Koole'
 author: 'Niels Koole'
 author_image: "/assets/images/author.jpg"
 
-paginate: "5"
+paginate: 5
 
 url: "http://nielskoole.github.io" # the base hostname & protocol for your site
 baseurl: ""
