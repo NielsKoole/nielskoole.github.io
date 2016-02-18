@@ -18,7 +18,7 @@ Om hier een beter beeld bij te geven, wil ik binnenkort ook een video plaatsen o
 
 We zullen de aankomende tijd steeds meer nieuwe dingen toevoegen. Waaronder een hoop aangevraagde functionaliteiten. Al kunnen wij niet garanderen dat we alle aanvragen kunnen verwerken, wij zorgen ervoor dat u nooit meer met een ander kassasysteem wilt werken!
 
-Heeft u vragen, op- of aanmerkingen? U kunt altijd bij ons terecht via info@made2pay.com, [twitter](https://twitter.com/made2pay "@made2pay") of [facebook](https://www.facebook.com/made2pay "Made2pay").
+Heeft u vragen, op- of aanmerkingen? U kunt altijd bij ons terecht via [info@made2pay.com](mailto:info@made2pay.com "email"), [twitter](https://twitter.com/made2pay "@made2pay") of [facebook](https://www.facebook.com/made2pay "Made2pay").
 
 Ik hou u op de hoogte!
 
