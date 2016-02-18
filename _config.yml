@@ -5,10 +5,8 @@ gems:
 
 # Site settings
 title: "Made2pay"
-description: > # this means to ignore newlines until "email:"
-    Blog omtrent alles van Made2pay
-
-email: niels@made2pay.com
+description: "Blog omtrent alles van Made2pay"
+email: "niels@made2pay.com"
 #blog logo
 logo: "/assets/images/m2p_logo.jpg"
 # blog cover
@@ -18,31 +16,31 @@ name: 'Niels Koole'
 author: 'Niels Koole'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate: "5"
 
 url: "http://nielskoole.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@made2pay'
+twitter_handle: "@made2pay"
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
 
 # social icons and sharing options
 social:
-  - icon:	twitter
-    url:	https://twitter.com/made2pay
-    desc: Follow me on twitter
-    share_url: http://twitter.com/share
-    share_title: ?text=
+  - icon: "twitter"
+    url: "https://twitter.com/made2pay"
+    desc: "Follow me on twitter"
+    share_url: "http://twitter.com/share"
+    share_title: "?text="
     share_link: "&amp;url="
 
- - icon:	facebook
-   url:	https://facebook.com/made2pay
-   desc: Connect with me facebook
-   share_url: https://www.facebook.com/sharer.php
-   share_title: ?t=
-   share_link: "&amp;u="
+  - icon: "facebook"
+    url:	"https://facebook.com/made2pay"
+    desc: "Connect with me facebook"
+    share_url: "https://www.facebook.com/sharer.php"
+    share_title: "?t="
+    share_link: "&amp;u="
 
   # - icon:	github
   #   url:	https://github.com/nielskoole
