@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 2: Deep down"
-date:   2016-02-17 16:00:00 +0100
+date:   2016-02-21 17:57:00 +0100
 categories: algemeen
 ---
 Het is nog geen week geleden, maar toch is er alweer een hoop werk verzet. Te beginnen met het blog, deze is vanaf heden te bereiken via [blog.made2pay.com](http://blog.made2pay.com "Blog"). Sharing is caring!
