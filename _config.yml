@@ -24,7 +24,7 @@ baseurl: ""
 twitter_handle: "@made2pay"
 
 #fill in disqus shortname to use disqus
-#disqus: disqus-shortname
+disqus: made2pay
 
 # social icons and sharing options
 social:
