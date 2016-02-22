@@ -3,6 +3,7 @@ layout: post
 title:  "Week 1: Transparantie"
 date:   2016-02-17 16:00:00 +0100
 categories: algemeen
+comments: true
 ---
 De afgelopen weken kregen wij steeds vaker de vraag wanneer de volgende update komt. Een terechte vraag. Afgelopen december kondigde wij aan dat we hard met een nieuwe update bezig waren en dat die snel zou komen. Nu we enkele maanden verder zijn is het dus ook niet gek dat de eerste klanten hierop terugkomen. Hoewel wij nog geen exacte datum hebben genoemd, vind ik het wel belangrijk dat onze klanten begrijpen dat wij hier de tijd voor nemen.
 
