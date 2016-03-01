@@ -11,7 +11,7 @@ Afgelopen week stond in het teken van de statistieken. Een belangrijk onderdeel 
 Ook is het beheerdersmenu weer terug; daarmee is alles ook gezegd. Je kunt het menu openen, de statistieken bekijken en het menu weer sluiten. Er zit nog geen beveiliging op en verder moet het visueel nog een opknapbeurt krijgen, maar dit gebeurt pas helemaal aan het einde.
 
 Zie in onderstaand filmpje de statistieken & het beheerdersmenu:
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=TxC6L3B52bY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TxC6L3B52bY" frameborder="0" allowfullscreen></iframe>
 
 Deze week ga ik de algemene instellingen maken; hierdoor kan ik mij ook bezig houden met bijv. printer ondersteuning, extra betaalmethoden en dergelijke. Ook moet nog duidelijk worden hoe de btw van een product ingesteld kan worden. Via een btw-groep (zoals het nu is), of per product apart. Al met al wordt het weer een mooie week.
 
