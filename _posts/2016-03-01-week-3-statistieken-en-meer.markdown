@@ -13,7 +13,7 @@ Ook is het beheerdersmenu weer terug; daarmee is alles ook gezegd. Je kunt het m
 Zie in onderstaand filmpje de statistieken & het beheerdersmenu:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TxC6L3B52bY" frameborder="0" allowfullscreen></iframe>
 
-Deze week ga ik de algemene instellingen maken; hierdoor kan ik mij ook bezig houden met bijv. printer ondersteuning, extra betaalmethoden en dergelijke. Ook moet nog duidelijk worden hoe de btw van een product ingesteld kan worden. Via een btw-groep (zoals het nu is), of per product apart. Al met al wordt het weer een mooie week.
+Deze week ga ik de algemene instellingen maken; hierdoor kan ik mij ook bezig houden met bijv. printer ondersteuning en extra betaalmethoden. Ook wil ik helder krijgen hoe de btw van een product ingesteld moet worden. Via een btw-groep (zoals het nu is) of per product apart. Al met al wordt het weer een mooie week.
 
 P.S. Wat mij opviel was dat de laatste update van Made2pay op 15 februari 2015 was. Alweer meer dan een jaar geleden!! Wordt nu echt hoog tijd om uit de kinderschoenen te stappen.
 
