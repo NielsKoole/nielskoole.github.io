@@ -9,6 +9,7 @@ Het is inmiddels zes weken geleden sinds mijn laatste blogpost. Ik ben enkele we
 Ik heb hier bewust de tijd voor genomen, dit is namelijk een onderdeel wat door de hele applicatie heen verwerkt zit en moest dus goed gecheckt worden. Hierdoor heb ik sommige stukken ook opnieuw moeten schrijven omdat het niet aan de verwachtingen voldeed. Maar ik ben onwijs tevreden met het resultaat.
 
 Nog even alle punten op een rij:
+
 - Werknemers kunnen aanmaken, aanpassen en verwijderen
 - Code en permissies per werknemer in kunnen stellen
 - Alleen de beheerder kan zijn eigen code aanpassen
