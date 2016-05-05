@@ -20,7 +20,7 @@ Daarnaast ben ik afgelopen week begonnen met het ondersteunen van onze vertrouwd
 
 Daarbij heb ik ook mijn tijd nuttig besteed om mijzelf te verdiepen in Laravel. Dit is een PHP framework die het mogelijk maakt om heel eenvoudig API's te kunnen maken. Voor de mensen die niet weten wat een API is: dit wordt vaak gebruikt om te kunnen communiceren tussen een website en een app. Deze API ga ik gebruiken om gebruikers in mijn app te kunnen herkennen en er voor te zorgen dat backups opgeslagen kunnen worden.
 
-Ook zijn er een hele hoop vorderingen wat betreft het ontwerp van de app. Zoals je op de voorgaande video's al heb kunnen zien, ziet de app er nu nog saai en onoverzichtelijk uit. Samen met Elmar Janse (elmarjanse.nl) zijn we bezig met een volledig redesign van de app. Dit is zo goed als af en ik kan niet wachten om jullie alvast een sneak preview te laten zien! Maar die komt binnenkort :)
+Ook zijn er een hele hoop vorderingen wat betreft het ontwerp van de app. Zoals je op de voorgaande video's al heb kunnen zien, ziet de app er nu nog saai en onoverzichtelijk uit. Samen met Elmar Janse [(elmarjanse.nl)](http://elmarjanse.nl "elmarjanse.nl") zijn we bezig met een volledig redesign van de app. Dit is zo goed als af en ik kan niet wachten om jullie alvast een sneak preview te laten zien! Maar die komt binnenkort :)
 
 Maar nu de grote functionaliteiten zo goed als af zijn, wordt de focus verlegd naar de wat kleinere onderdelen binnen de app, dat zijn:
 
