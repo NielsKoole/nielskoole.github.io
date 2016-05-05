@@ -12,7 +12,7 @@ Vorige week ben ik bezig geweest om de cashflow in de app toe te voegen. Dit was
 - Bestellingen plaatsen
 - Statistieken inzien
 - Werknemers beheren
-- Producten & categorieën beheren
+- Producten & categorieen beheren
 - Cashflow management
 - Voorraadbeheer
 
@@ -35,7 +35,7 @@ Maar nu de grote functionaliteiten zo goed als af zijn, wordt de focus verlegd n
 
 Hoewel dit op het eerste oog allemaal dingen lijken die zo ontwikkeld zijn, gaat hier juist veel tijd in zitten. Wanneer de details belangrijk worden, is het een tijdrovende klus om alles perfect te krijgen. Zoals iedereen inmiddels weet staat kwaliteit bij Made2pay voorop, dus wordt er pas gereleased wanneer we er zeker van zijn dat de app perfect werkt. Om dit te kunnen garanderen gaan we veel testen, wil je hieraan meedoen? Stuur dan een email naar info@made2pay.com.
 
-Bij deze houd ik het weer voor gezien! Mijn werkdag voor vandaag zit erop, schroom niet om te reageren en geniet van het lekkere weer de komende dagen! 
+Bij deze houd ik het weer voor gezien! Mijn werkdag voor vandaag zit erop, schroom niet om te reageren en geniet van het lekkere weer de komende dagen!
 
 
 Heeft u vragen, op- of aanmerkingen? U kunt altijd bij ons terecht via [info@made2pay.com](mailto:info@made2pay.com "email"), [twitter](https://twitter.com/made2pay "@made2pay") of [facebook](https://www.facebook.com/made2pay "Made2pay").
