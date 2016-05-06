@@ -18,6 +18,9 @@ author_image: "/assets/images/author.jpg"
 
 paginate: 5
 
+# This is to fix build problems when a post has a date considered in the future
+future: true
+
 url: "http://blog.made2pay.com" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
