@@ -11,6 +11,7 @@ Ik heb wederom weer een hele hoop vooruitgang geboekt, maar laat ik met het bela
 Dan nog een ander niet onbelangrijk iets: afgelopen week heb ik bij mijn werkgever Roadmap aangegeven voor mijzelf verder te willen gaan. Niet omdat ik het daar niet naar mijn zin had, in tegendeel zelfs, maar omdat ik vind dat ik voor Made2pay moet gaan. Ik doe dit nu al bijna 3 jaar naast mijn werk en het lijkt normaal te zijn geworden dat ik 2 jobs heb, maar dat is het niet. En voor mij was het nu het moment om hiervoor te gaan. Over enkele maanden is de nieuwe release af waarbij je het oude M2P niet meer zal herkennen, maar daarmee gaat het feest eigenlijk pas beginnen. Ik heb nog allerlei wilde plannen waar ik niet op kan wachten om mee te beginnen. Dus ik heb de feiten op een rijtje gezet en besloten om binnenkort enkele dagen in de week voor M2P en de rest te gaan freelancen. Ik hoop hiermee sneller met de release klaar te zijn, maar dat is vooralsnog koffiedik kijken. Het is in ieder geval een belangrijke stap voor de toekomst van M2P.
 
 Goed dan nu over de voortgang, daar bloggen we tenslotte voor. Ik moest in de historie van mijn aanpassingen zoeken wat ik sinds mijn laatste blogpost heb gedaan, hieronder som ik het voor je op:
+
 - Printer ondersteuning uitgebreid: meerdere virtuele printers per fysieke printer.
 - Alle formulieren en lijsten in de app omgezet naar het nieuwe design (Dit was echt een *** klus!!).
 - Kortingen aangeven per product in de bestelling (vast en percentage)
