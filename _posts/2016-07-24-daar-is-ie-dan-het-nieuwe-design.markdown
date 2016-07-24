@@ -35,7 +35,7 @@ In grote lijnen zijn onderstaande onderdelen wat ik nog moet doen voor de app:
 - Bestellingen en rekeningen kunnen verwijderen / cancelen
 
 Ik hoop dat jullie net zo enthousiast zijn als ik over het nieuwe design. Ik hoor heel graag wat jullie ervan vinden!
-![Made2pay banner]({{ site.url }}/assets/banner.png)
+![Made2pay banner]({{ site.url }}/assets/banner.jpeg)
 
 
 Heeft u vragen, op- of aanmerkingen? U kunt altijd bij ons terecht via [info@made2pay.com](mailto:info@made2pay.com "email"), [twitter](https://twitter.com/made2pay "@made2pay") of [facebook](https://www.facebook.com/made2pay "Made2pay").
