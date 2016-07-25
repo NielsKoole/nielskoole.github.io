@@ -4,7 +4,7 @@ title:  "Daar is ie dan: het nieuwe design!"
 date:   2016-07-24 16:08:20 +0100
 categories: algemeen
 ---
-Gisteren was mijn vriendin jarig en dat hebben we goed gevierd. Maar vandaag valt er iets te vieren. Hoewel de lancering stapvoets dichterbij komt, moeten we de tussentijdse mijlpalen niet vergeten! Naast alle nieuwe en verbeterde features die in de aankomende release zitten, is ook de complete huisstijl vernieuwd. Iets waar ik mega trots op ben.
+Gisteren was mijn vriendin jarig en dat hebben we goed gevierd. Maar vandaag valt er ook iets te vieren. Hoewel de lancering stapvoets dichterbij komt, moeten we de tussentijdse mijlpalen niet vergeten! Naast alle nieuwe en verbeterde features die in de aankomende release zitten, is ook de complete huisstijl vernieuwd. Iets waar ik mega trots op ben.
 
 Het design van de app is volledig op de schop gegaan. Waar de user experience zo goed als hetzelfde blijft, ziet het er alleen helemaal anders uit. Een nieuw logo, nieuwe kleuren, een geweldig lettertype, de huisstijl is in elk scherm doorgevoerd. Ik ben er inmiddels al helemaal aan gewend, en iedere keer als ik de 'oude' huisstijl zie vraag ik mijzelf af waarom ik dit niet eerder heb gedaan!
 
