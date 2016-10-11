@@ -22,7 +22,7 @@ Wat je extra krijgt met de nieuwe release van Made2pay:
 * Werken met maximaal 4 tabbladen tegelijk
 * Bestellingen van een rekening verplaatsen naar een andere rekening
 
-Zoals je hebt kunnen lezen is het vanaf nu mogelijk om pin betalingen met iZettle te kunnen ontvangen. Hierbij is de ondersteuning van Payleven komen te vervallen. Helaas betekent dit voor iedereen die gebruik maakte van Payleven dat zij moeten overstappen naar iZettle. Gelukkig zijn de tarieven hetzelfde en kan je je heel eenvoudig aanmelden. Daarbij kan je de prachtige en robuuste pin-reader aanschaffen voor (maar) €19,- excl. btw via deze link: http://izettle.go2cloud.org/SH1W4 .
+Zoals je hebt kunnen lezen is het vanaf nu mogelijk om pin betalingen met iZettle te kunnen ontvangen. Hierbij is de ondersteuning van Payleven komen te vervallen. Helaas betekent dit voor iedereen die gebruik maakte van Payleven dat zij moeten overstappen naar iZettle. Gelukkig zijn de tarieven hetzelfde en kan je je heel eenvoudig aanmelden. Daarbij kan je de prachtige en robuuste pin-reader aanschaffen voor (maar) €19,- excl. btw via deze link: http://izettle.go2cloud.org/SH1W4.
 
 Verder is de nieuwe website al zo goed als af, inclusief het blog die in dezelfde stijl zal zijn. Wat nog rest is het klantenportaal waar de licentie voor nieuwe gebruikers aangeschaft kan worden, je je profiel kan updaten, facturen in kan zien en dergelijke. De verwachting is dat hier nog 2 maanden voor nodig zal zijn om dit te ontwikkelen, voordat we kunnen releasen.
 
